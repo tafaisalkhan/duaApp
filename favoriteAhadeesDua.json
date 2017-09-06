@@ -496,6 +496,28 @@
         "type":"ahadees",
         "title": "Ahadees Dua"
 
+      },
+      {
+        "index": 46,
+        "arabic":  " اَللّٰھُمَّ اغْفِرْلِیْ وَاھْدِنِیْ وَارْزُقْنِیْ وَعَافِنِیْ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
+      },
+      {
+        "index": 47,
+        "arabic":  " اَللهُمَّ اَعُوْذُبِكَ مِنْ ضِيْقَ اَلْدُنْيَا وَ ضِيْقِ يَوْمِ اَلْقِيآمَةِ",
+        "english": "",
+        "spanish": "",
+        "urdu": "",
+        "favorite":false,
+        "type":"ahadees",
+        "title": "Ahadees Dua"
+
       }
       
     ]
